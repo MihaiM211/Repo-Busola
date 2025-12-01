@@ -20,8 +20,8 @@ A real-time digital compass application that visualizes absolute orientation dat
 | :--------- | :-------- | :---------- |
 |     VIN    |    3.3V   | Power Supply |
 |     GND    |    GND    | Ground |
-|     SDA    |   GPIO 8  | I2C Data (Check your board pinout) |
-|     SCL    |   GPIO 9  | I2C Clock (Check your board pinout) |
+|     SDA    |   GPIO 8 / SDA | I2C Data (Check your board pinout) |
+|     SCL    |   GPIO 9 / SCL | I2C Clock (Check your board pinout) |
 
 
 
